@@ -1,0 +1,15 @@
+-1,John,Smith
+#L001,international,1200$,1000$,2000$
+#L002,domiciled,2000000L.L,500000L.L,1000000L.L
+#L003,domiciled,10000$,1000$,3000$
+#L004,domiciled,985000L.L,100000L.L,300000L.L
+#L005,domiciled,1000000L.L,100000L.L,300000L.L
+#L006,domiciled,1000000L.L,100000L.L,300000L.L
+#L0010,marven,10000$,1000$,2000$
+-2,Alice,Anderson
+#B002,international,3493.4€,500€,1000€
+#B003,dom,1010$,100$,200$
+-3,Bob,Smith
+#L001,domiciled,15900$,1000$,3000$
+#L003,inter,1000$,100$,200$
+#L004,dom,200$,10$,20$
